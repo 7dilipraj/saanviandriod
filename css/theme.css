@@ -1,0 +1,87 @@
+
+  #themeToggle {
+    cursor: pointer;
+    position: absolute;
+    top: 20px;
+    right: 35%;
+    transform: translateX(-50%);
+  }
+
+  #themeToggle img {
+    width: auto; /* Set your preferred width */
+    height: 32px; /* Maintain aspect ratio */
+    display: flex;
+    align-items: center;
+  }
+
+  #themeToggle-topnav {
+    cursor: pointer;
+    position: absolute;
+    top: 20px;
+    right: 35%;
+    transform: translateX(-50%);
+  }
+
+  #themeToggle-topnav img {
+    width: auto; /* Set your preferred width */
+    height: 32px; /* Maintain aspect ratio */
+    display: flex;
+    align-items: center;
+  }
+
+
+  @media screen and (max-width: 600px) {
+  #themeToggle {
+    cursor: pointer;
+    position: absolute;
+    top: 19px;
+    right: 22px;
+    transform: translateX(-50%);
+  }
+
+  #themeToggle img {
+    width: auto; /* Set your preferred width */
+    height: 32px; /* Maintain aspect ratio */
+
+
+  }
+  }
+
+  .theme-name {
+    margin-left: 10px; /* Adjust the margin as needed */
+    font-size: 14px; /* Adjust the font size as needed */
+    color: #8d1313; /* Adjust the color as needed */
+  }
+
+  /*extra icons*/
+  .icons {
+
+    cursor: pointer;
+    position: absolute;
+    top: 20px;
+    right: 83px;
+  }
+
+  .icons img {
+    height: 30px; /* Set the desired height */
+    margin-left: 16px; /* Adjust the margin for the desired gap */
+  }
+
+
+    /*extra icons end*/
+
+    /*extra icons web view*/
+
+
+  .icons_web {
+
+    cursor: pointer;
+    position: absolute;
+    top: 23px;
+    right: 40%;
+  }
+
+  .icons_web img {
+    height: 30px; /* Set the desired height */
+    margin-left: 22px; /* Adjust the margin for the desired gap */
+  }

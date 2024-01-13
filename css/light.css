@@ -1,0 +1,142 @@
+
+/* Light Theme */
+    body.light-theme {
+        background-color: #F4F5F7;
+        color: #333;
+        transition: background-color 0.3s, color 0.3s;
+      }
+
+      body.light-theme .content{
+        color: black;  /*text colour*/
+         }
+/*-----------------------------------------------
+      Top nav colouring start
+------------------------------------------------*/
+
+     body.light-theme .topnav {
+        background-color: #FFFFFF; /*entire colour of top navbar*/
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+        }
+
+    body.light-theme .topnav a {
+            color: black;  /*text colour*/
+             }
+
+    body.light-theme .topnav a:hover {
+            background-color: #ddd;/*on mouse cursor*/
+            color: black;
+            }
+
+     body.light-theme .topnav a.active {
+      background-color: #FE8975; /*active tab highliter*/
+      color: white;/*highliter text*/
+      }
+
+/*-----------------------------------------------
+      Top nav colouring end
+------------------------------------------------*/
+
+/*-----------------------------------------------
+      Cards start
+------------------------------------------------*/
+body.light-theme .card {
+    background-color: #FFFFFF;
+    }
+
+body.light-theme .card h2 {
+        color: black;  /* Style for the heading */
+      }
+    
+     
+body.light-theme .card p {  
+        color: black;  /* Style for the text below the heading */
+      }
+
+/*-----------------------------------------------
+      Cards end
+------------------------------------------------*/
+
+
+
+/*-----------------------------------------------
+      Bottom nav start
+------------------------------------------------*/
+body.light-theme .navbar {
+        background-color: #FFFFFF;
+      }
+
+      body.light-theme .navbar a {
+        color: black;  
+        font-weight: bolder;
+      }
+
+/*-----------------------------------------------
+      Bottom nav end
+------------------------------------------------*/
+
+/*-----------------------------------------------
+      Top Nav Mobileview
+------------------------------------------------*/
+body.light-theme .topnav_mob {
+      background-color: #FFFFFF; /*entire colour of top navbar*/
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+      }
+
+/*-----------------------------------------------
+      Top Nav Mobileview
+------------------------------------------------*/
+
+/*-----------------------------------------------
+      home
+------------------------------------------------*/
+
+
+
+/*-----------------------------------------------
+      home
+------------------------------------------------*/
+
+
+   /* pricing*/
+   body.light-theme .main-card {
+      background-color: #F4F5F7;
+    }
+    
+    body.light-theme .sub-card {
+      background-color: #F4F5F7;
+    }
+  
+    body.light-theme .flip-card-front {
+      background-color: #FFFFFF;
+      color: black;
+    }
+    
+    body.light-theme .flip-card-back {
+      background-color: #FFFFFF;
+      color: black;
+    }
+
+    body.light-theme .overlay-text {
+      color: black;
+    }
+
+
+      /* Style for the table */
+      body.light-theme tr:nth-child(odd) {
+      background-color: #FFFFFF;
+      color: #000;
+    }
+  
+    body.light-theme tr:nth-child(even) {
+      background-color: #FFFFFF;
+      color: #000;
+    }
+    
+    body.light-theme .flip-card-back h3 {
+  color: black;
+}
+
+body.light-theme tr:hover {
+      background-color: #F4F5F7 ;
+    }
+  

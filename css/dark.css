@@ -1,0 +1,6 @@
+    /* Dark Theme */
+    body.dark-theme {
+        background-color: #17161B;
+        color: #fff;
+        transition: background-color 0.3s, color 0.3s;
+      }
