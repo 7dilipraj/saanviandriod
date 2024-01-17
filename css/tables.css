@@ -41,14 +41,14 @@
   tr:nth-child(odd) {
     background-color: #232531;
     color: white;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: bold;
   }
 
   tr:nth-child(even) {
     background-color: #232531;
     color: white;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: bold;
   }
 
