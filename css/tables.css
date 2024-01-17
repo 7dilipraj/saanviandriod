@@ -29,7 +29,7 @@
     text-align: left;
   }
 
-  @media only screen and (max-width: 600) {
+  @media only screen and (max-width: 600px) {
       /* Style for the table */
   table {
     width: 110px;
