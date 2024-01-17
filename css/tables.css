@@ -32,23 +32,23 @@
   @media only screen and (max-width: 600px) {
       /* Style for the table */
   table {
-    width: 110px;
+    width: 130px;
     border-collapse: collapse;
     align-items: center;
-    margin-left: 10px;
+    margin-left: 17px;
 }
 
   tr:nth-child(odd) {
     background-color: #232531;
     color: white;
-    font-size: 11px;
+    font-size: 13px;
     font-weight: bold;
   }
 
   tr:nth-child(even) {
     background-color: #232531;
     color: white;
-    font-size: 11px;
+    font-size: 13px;
     font-weight: bold;
   }
 
@@ -57,7 +57,7 @@
   }
 
   td {
-    padding: 3px;
+    padding: 5px;
     text-align: left;
   }
 
