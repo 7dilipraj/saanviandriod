@@ -32,10 +32,10 @@
   @media only screen and (max-width: 600) {
       /* Style for the table */
   table {
-    width: 130px;
+    width: 120px;
     border-collapse: collapse;
     align-items: center;
-    margin-left: 10px;
+    margin-left: 17px;
 }
 
   tr:nth-child(odd) {
