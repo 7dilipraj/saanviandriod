@@ -85,3 +85,5 @@ function toggleTheme() {
 document.addEventListener('contextmenu', function (e) {
   e.preventDefault();
 });
+
+scrollToSection('home');
